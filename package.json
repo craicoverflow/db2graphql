@@ -20,7 +20,7 @@
     "case": "1.6.1",
     "graphql-annotations": "0.0.3",
     "knex": "0.20.2",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "lodash-es": "4.17.15",
     "node-emoji": "1.10.0",
     "pino": "5.14.0",
