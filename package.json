@@ -21,7 +21,7 @@
     "graphql-annotations": "0.0.3",
     "knex": "0.20.2",
     "lodash": "4.17.15",
-    "lodash-es": "4.17.15",
+    "lodash-es": "4.17.21",
     "node-emoji": "1.10.0",
     "pino": "5.14.0",
     "glob": "7.1.6"
